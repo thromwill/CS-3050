@@ -1,7 +1,7 @@
 microFacebook
 
 This program was written during my second semester sophomore year for CS 3050,
-an advanced algorithm design course taught in C. The goal of this design is to develop
+an advanced algorithm design course taught in C. The goal of this design was to develop
 and understanding of hashtables through their implementation. Input is taken from the
 console, where users can create people to be stored in the microFacebook database.
 
