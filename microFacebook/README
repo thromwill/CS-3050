@@ -1,0 +1,19 @@
+microFacebook
+
+This program was written during my second semester sophomore year for CS 3050,
+and advanced algorithm design course taught in C. The goal of this design is to develop
+and understanding of hashtables through their implementation. Input is taken from the
+console, where users can create people to be stored in the microFacebook database.
+
+Commands:
+  P - <name> ---------- Create a person record of the specified first name.
+  F - <name1> <name2> - Record that the two specified people are friends.
+  U - <name1> <name2> - Record that the two specified people are no longer friends.
+  L - <name> ---------- Print out the friends of the specified person.
+  Q - <name1> <name2> - Check whether the two people are friends.
+  X ------------------- Terminate the program.
+  
+Example Input:
+	:p will
+	:Q colin will
+	:x
