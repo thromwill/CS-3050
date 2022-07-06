@@ -40,4 +40,4 @@ Known Bugs:
 		Fix: Running the same command again seems to fix this display issue
 	- Problem where input of too large length will cause program to crash
 		Fix: Use a relatively short list of numbers; this program was created to test
-		     specific sets of numbers, so maximum array sizes are not particularly large.
+		     specific number sets, so maximum array sizes are not particularly large.
