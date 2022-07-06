@@ -9,7 +9,7 @@ Example Input:
 	:I 70 2 1 1 0
 	:x
 
-Externally sourced code:
+Externally sourced:
 	*    Queue | Set 1 (Introduction and Array Implementation)
 	*    Author: GeeksforGeeks
 	*    Date: 09 April, 2022
