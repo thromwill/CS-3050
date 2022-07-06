@@ -19,7 +19,7 @@ Example Input:
 Files:
 	numbers.txt has been provided using the given example data.
 
-Externally sourced code:
+Externally sourced:
 	*    Title: Red-Black Tree
 	*    Author: Programiz
 	*    Date: n/a
