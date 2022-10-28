@@ -146,7 +146,7 @@ char * getInput(){
     char * output = malloc(256 * sizeof(char));
 
     //Collect input
-		printf("\n: ");
+    printf("\n: ");
     fgets(input, sizeof(input), stdin);
 
 
