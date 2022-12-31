@@ -1,3 +1,9 @@
-# CS-3050 Advanced Algorithm Design
+# CS-3050 Advanced Algorithm Design <img align="right" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 
-These programs were developed for this algorithm design course during my second semester sophomore year. These three projects were each implemented in a way to develop an understanding of hashtable, binary tree variations, and graphs. Microfacebook uses hashtables to store basic user data, RedBlackTree uses red and black trees in a very straightforward way, and Elevator focuses on the depth first search (DFS) algorithm to implement a solution.
+Three main programs from this algorithm design course, each implemented to develop an understanding of a certain data structure.
+
+<pre>
+Microfacebook: uses a hashtable to store and retrieve user data
+RedBlackTree: builds and charactarizes a tree from numerical input
+Elevator: uses depth first search (DFS) to look for floors
+</pre>
