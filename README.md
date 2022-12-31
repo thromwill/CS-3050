@@ -3,7 +3,7 @@
 Three main programs from this algorithm design course, each implemented to develop an understanding of a certain data structure.
 
 <pre>
+Elevator: uses depth first search (DFS) to look for floors
 Microfacebook: uses a hashtable to store and retrieve user data
 RedBlackTree: builds and charactarizes a tree from numerical input
-Elevator: uses depth first search (DFS) to look for floors
 </pre>
