@@ -9,7 +9,7 @@
 //---------------------------------------------------------------------------------------------
 
 //Takes two linked_list nodes, p1 referring to the head of a list and p2 the node to be removed
-//Removes node is found, removes node
+//Removes node if found
 void removeNode(linked_list * p1, linked_list * p2, char s[256]){
 
     linked_list * temp = (linked_list*)malloc(sizeof(linked_list));
